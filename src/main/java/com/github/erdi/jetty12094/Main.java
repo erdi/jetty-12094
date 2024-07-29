@@ -3,7 +3,7 @@ package com.github.erdi.jetty12094;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.ServerConnector;
-import org.eclipse.jetty.webapp.WebAppContext;
+import org.eclipse.jetty.ee9.webapp.WebAppContext;
 import javax.naming.InitialContext;
 
 public class Main {
